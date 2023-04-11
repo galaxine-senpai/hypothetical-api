@@ -1,0 +1,19 @@
+{
+  "name": "hypothetical-api",
+  "version": "1.0.0",
+  "description": "Gives random hypothetical situations",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galaxine-senpai/hypothetical-api.git"
+  },
+  "author": "galaxine~senpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galaxine-senpai/hypothetical-api/issues"
+  },
+  "homepage": "https://github.com/galaxine-senpai/hypothetical-api#readme"
+}
